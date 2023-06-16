@@ -1,0 +1,2 @@
+#search box but it does not have rounded corners
+Search_label = Label(window, relief=RIDGE, bg="#203243").place(x=270, y=112, width=500, height=60)
